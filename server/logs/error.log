@@ -1,0 +1,1064 @@
+2025-05-06 20:24:47 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'saveRatesToDB')[39m
+2025-05-06 20:27:56 [31merror[39m: [31mError generating linear forecast: Not enough historical data for forecast[39m
+2025-05-06 20:27:56 [31merror[39m: [31mError getting forecast: Failed to generate forecast: Not enough historical data for forecast[39m
+2025-05-06 20:31:04 [31merror[39m: [31mError generating linear forecast: Not enough historical data for forecast[39m
+2025-05-06 20:31:04 [31merror[39m: [31mError getting forecast: Failed to generate forecast: Not enough historical data for forecast[39m
+2025-05-06 20:57:52 [31merror[39m: [31mError generating linear forecast: Not enough historical data for forecast[39m
+2025-05-06 20:57:52 [31merror[39m: [31mError getting forecast: Failed to generate forecast: Not enough historical data for forecast[39m
+2025-05-12 13:34:36 [31merror[39m: [31mError generating linear forecast: Not enough historical data for forecast[39m
+2025-05-12 13:34:36 [31merror[39m: [31mError getting forecast: Failed to generate forecast: Not enough historical data for forecast[39m
+2025-05-12 17:51:19 [31merror[39m: [31mError generating linear forecast: Not enough historical data for forecast[39m
+2025-05-12 17:51:19 [31merror[39m: [31mError getting forecast: Failed to generate forecast: Not enough historical data for forecast[39m
+2025-05-12 17:51:27 [31merror[39m: [31mError generating linear forecast: Not enough historical data for forecast[39m
+2025-05-12 17:51:27 [31merror[39m: [31mError getting forecast: Failed to generate forecast: Not enough historical data for forecast[39m
+2025-05-12 17:51:35 [31merror[39m: [31mError generating linear forecast: Not enough historical data for forecast[39m
+2025-05-12 17:51:35 [31merror[39m: [31mError getting forecast: Failed to generate forecast: Not enough historical data for forecast[39m
+2025-05-12 18:08:01 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 18:20:31 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 18:20:37 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 18:20:42 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 18:20:47 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 18:28:11 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 18:28:11 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 18:28:11 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 18:28:11 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 18:28:26 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 18:28:26 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 18:28:27 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 18:28:27 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 18:48:51 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 18:49:11 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 18:55:48 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 18:55:51 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 19:25:47 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 19:55:47 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 20:47:09 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 23:07:07 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:08:46 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 23:08:46 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 23:08:46 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-12 23:08:48 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:08:55 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:08:58 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:09:39 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:09:47 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:09:48 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:09:49 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:09:52 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:15:56 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:16:07 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:18:34 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:18:42 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:19:16 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:19:18 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:19:29 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:22:48 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:36 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:36 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:40 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:40 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:40 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:40 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:40 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:40 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:40 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:40 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:40 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:40 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:40 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:40 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:40 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:40 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:47 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:47 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:47 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:47 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:47 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:47 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:47 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:47 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:47 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:47 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:49 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:49 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:50 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:50 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:50 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:50 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:50 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:50 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:50 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:50 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:24:50 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:24:50 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:26:38 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:26:46 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:26:46 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:26:48 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:26:48 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:26:48 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:26:48 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:26:48 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:26:48 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-12 23:28:07 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-12 23:28:44 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 12:57:59 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-13 12:57:59 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-13 12:57:59 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-13 12:58:01 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 12:58:03 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 12:58:03 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 13:01:17 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:01:36 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:01:50 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:01:50 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:01:50 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 13:01:50 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:01:50 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 13:01:50 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 13:01:58 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:02:02 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:03:03 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:03:12 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:03:35 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:03:35 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 13:03:38 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:03:38 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 13:04:30 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:05:11 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:06:27 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:06:41 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:08:48 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:10:49 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:11:26 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:16:49 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:19:57 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:20:09 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:23:24 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 13:46:18 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-13 13:46:18 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-13 13:46:18 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-13 14:06:39 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:06:43 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:06:44 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:06:46 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:06:47 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:06:47 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 14:06:56 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:06:56 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:06:56 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 14:06:56 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:06:56 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:06:56 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 14:06:56 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 14:07:06 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:07:06 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:07:06 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:07:06 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:07:06 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:07:06 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:07:06 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 14:07:06 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 14:07:06 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 14:07:06 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:07:06 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 14:07:06 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:07:06 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 14:07:19 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:07:19 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 14:07:19 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:07:19 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:07:19 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 14:07:21 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:07:21 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:07:21 [31merror[39m: [31mError in getForecast: getCachedData is not a function[39m
+2025-05-13 14:07:21 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:22:32 [31merror[39m: [31mError in getAllRates: getCachedData is not a function[39m
+2025-05-13 14:31:40 [31merror[39m: [31mError in getHistoricalRates: getCachedData is not a function[39m
+2025-05-13 14:49:57 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 14:49:57 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 14:49:57 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 14:59:49 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 14:59:49 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 14:59:49 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:03:47 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:03:47 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:03:47 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:03:49 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:03:49 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:03:49 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:04:30 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:04:30 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:04:30 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:13:46 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:13:46 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:13:46 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:14:09 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:14:09 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 15:14:18 [31merror[39m: [31mError fetching NBU rates: Invalid time value[39m
+2025-05-13 16:16:36 [31merror[39m: [31mError fetching NBU rates: getaddrinfo ENOTFOUND bank.gov.ua[39m
+2025-05-13 16:28:06 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:36:27 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:04 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:04 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:09 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:09 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:09 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:15 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:15 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:15 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:19 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:19 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:30 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:30 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:30 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:49 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:49 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:38:49 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:46:38 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:46:38 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 16:46:38 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 17:04:04 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 17:04:04 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 17:04:04 [31merror[39m: [31mError fetching rates from Monobank: Request failed with status code 429[39m
+2025-05-13 17:27:21 [31merror[39m: [31mMonobank API error: Status 429, Data: {"errCode":"TMR","errText":"Too many requests"}[39m
+2025-05-13 17:27:21 [31merror[39m: [31mMonobank API error: Status 429, Data: {"errCode":"TMR","errText":"Too many requests"}[39m
+2025-05-13 17:27:21 [31merror[39m: [31mMonobank API error: Status 429, Data: {"errCode":"TMR","errText":"Too many requests"}[39m
+2025-05-13 17:28:53 [31merror[39m: [31mMonobank API error: Status 429, Data: {"errCode":"TMR","errText":"Too many requests"}[39m
+2025-05-13 17:28:53 [31merror[39m: [31mMonobank API error: Status 429, Data: {"errCode":"TMR","errText":"Too many requests"}[39m
+2025-05-13 17:28:53 [31merror[39m: [31mMonobank API error: Status 429, Data: {"errCode":"TMR","errText":"Too many requests"}[39m
+2025-05-14 13:22:36 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 13:22:36 [31merror[39m: [31mError getting historical rates from MinFin: Request failed with status code 404[39m
+2025-05-14 13:22:36 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-14 13:22:36 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 13:22:36 [31merror[39m: [31mError getting current rates from MinFin: Request failed with status code 404[39m
+2025-05-14 13:22:36 [31merror[39m: [31mError getting all rates: Request failed with status code 404[39m
+2025-05-14 13:22:36 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 13:22:36 [31merror[39m: [31mError getting current rates from MinFin: Request failed with status code 404[39m
+2025-05-14 13:22:36 [31merror[39m: [31mError getting all rates: Request failed with status code 404[39m
+2025-05-14 15:01:59 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 15:01:59 [31merror[39m: [31mError getting current rates from MinFin: Request failed with status code 404[39m
+2025-05-14 15:01:59 [31merror[39m: [31mError getting current rates: Request failed with status code 404[39m
+2025-05-14 15:21:27 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 15:21:27 [31merror[39m: [31mError getting current rates from MinFin: Request failed with status code 404[39m
+2025-05-14 15:21:27 [31merror[39m: [31mError getting current rates: Request failed with status code 404[39m
+2025-05-14 15:21:27 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 15:21:27 [31merror[39m: [31mError getting current rates from MinFin: Request failed with status code 404[39m
+2025-05-14 15:21:27 [31merror[39m: [31mError getting current rates: Request failed with status code 404[39m
+2025-05-14 15:21:27 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 15:21:27 [31merror[39m: [31mError getting current rates from MinFin: Request failed with status code 404[39m
+2025-05-14 15:21:27 [31merror[39m: [31mError getting current rates: Request failed with status code 404[39m
+2025-05-14 15:21:57 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 15:21:57 [31merror[39m: [31mError getting current rates from MinFin: Request failed with status code 404[39m
+2025-05-14 15:21:57 [31merror[39m: [31mError getting current rates: Request failed with status code 404[39m
+2025-05-14 15:21:57 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 15:21:57 [31merror[39m: [31mError getting current rates from MinFin: Request failed with status code 404[39m
+2025-05-14 15:21:57 [31merror[39m: [31mError getting current rates: Request failed with status code 404[39m
+2025-05-14 15:21:57 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 15:21:57 [31merror[39m: [31mError getting current rates from MinFin: Request failed with status code 404[39m
+2025-05-14 15:21:57 [31merror[39m: [31mError getting current rates: Request failed with status code 404[39m
+2025-05-14 15:51:57 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 15:51:57 [31merror[39m: [31mError getting current rates from MinFin: Request failed with status code 404[39m
+2025-05-14 15:51:57 [31merror[39m: [31mError getting current rates: Request failed with status code 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 403[39m
+2025-05-14 16:56:40 [31merror[39m: [31mError fetching NBU rates: Request failed with status code 403[39m
+2025-05-14 16:56:40 [31merror[39m: [31mError getting combined rates: Request failed with status code 403[39m
+2025-05-14 16:56:40 [31merror[39m: [31mError getting current rates: Request failed with status code 403[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mError fetching bank rates: Request failed with status code 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mError fetching bank rates: Request failed with status code 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mError getting combined rates: Request failed with status code 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mError getting current rates: Request failed with status code 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mError fetching bank rates: Request failed with status code 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mError getting combined rates: Request failed with status code 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mError getting current rates: Request failed with status code 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 403[39m
+2025-05-14 16:56:40 [31merror[39m: [31mError fetching NBU rates: Request failed with status code 403[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mError fetching black market rates: Request failed with status code 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:40 [31merror[39m: [31mMinFin API error: Status 403[39m
+2025-05-14 16:56:40 [31merror[39m: [31mError fetching NBU rates: Request failed with status code 403[39m
+2025-05-14 16:56:41 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:41 [31merror[39m: [31mError fetching black market rates: Request failed with status code 404[39m
+2025-05-14 16:56:41 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 16:56:41 [31merror[39m: [31mError fetching black market rates: Request failed with status code 404[39m
+2025-05-14 16:56:41 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-14 17:00:59 [31merror[39m: [31mMinFin API error: Status 403[39m
+2025-05-14 17:00:59 [31merror[39m: [31mError fetching NBU rates: Request failed with status code 403[39m
+2025-05-14 17:00:59 [31merror[39m: [31mError getting combined rates: Request failed with status code 403[39m
+2025-05-14 17:00:59 [31merror[39m: [31mError getting current rates: Request failed with status code 403[39m
+2025-05-14 17:00:59 [31merror[39m: [31mMinFin API error: Status 403[39m
+2025-05-14 17:00:59 [31merror[39m: [31mError fetching NBU rates: Request failed with status code 403[39m
+2025-05-14 17:00:59 [31merror[39m: [31mError getting combined rates: Request failed with status code 403[39m
+2025-05-14 17:00:59 [31merror[39m: [31mError getting current rates: Request failed with status code 403[39m
+2025-05-14 17:00:59 [31merror[39m: [31mMinFin API error: Status 403[39m
+2025-05-14 17:00:59 [31merror[39m: [31mError fetching NBU rates: Request failed with status code 403[39m
+2025-05-14 17:00:59 [31merror[39m: [31mError getting combined rates: Request failed with status code 403[39m
+2025-05-14 17:00:59 [31merror[39m: [31mError getting current rates: Request failed with status code 403[39m
+2025-05-14 17:01:20 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:01:20 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:01:20 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:01:20 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:01:21 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:01:21 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:05:11 [31merror[39m: [31mError fetching bank rates: bankRatesPromises is not defined[39m
+2025-05-14 17:05:11 [31merror[39m: [31mError getting combined rates: bankRatesPromises is not defined[39m
+2025-05-14 17:05:11 [31merror[39m: [31mError getting current rates: bankRatesPromises is not defined[39m
+2025-05-14 17:05:11 [31merror[39m: [31mError fetching bank rates: bankRatesPromises is not defined[39m
+2025-05-14 17:05:11 [31merror[39m: [31mError getting combined rates: bankRatesPromises is not defined[39m
+2025-05-14 17:05:11 [31merror[39m: [31mError getting current rates: bankRatesPromises is not defined[39m
+2025-05-14 17:05:11 [31merror[39m: [31mError fetching bank rates: bankRatesPromises is not defined[39m
+2025-05-14 17:05:11 [31merror[39m: [31mError getting combined rates: bankRatesPromises is not defined[39m
+2025-05-14 17:05:11 [31merror[39m: [31mError getting current rates: bankRatesPromises is not defined[39m
+2025-05-14 17:23:28 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:23:28 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:23:28 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:23:28 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:23:29 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:23:29 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:26:55 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:26:55 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:26:55 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:26:55 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:26:56 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:26:56 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:35:06 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:35:06 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:35:06 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:35:06 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:35:06 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:35:06 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:37:20 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:37:20 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:37:20 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:37:20 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:37:20 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:37:20 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:40:10 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:40:10 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:40:10 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:40:10 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:40:10 [31merror[39m: [31mError getting combined rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 17:40:10 [31merror[39m: [31mError getting current rates: Cannot read properties of undefined (reading 'filter')[39m
+2025-05-14 20:34:58 [31merror[39m: [31mError in getHistoricalRates: base is not defined[39m
+2025-05-14 20:34:59 [31merror[39m: [31mError in getHistoricalRates: base is not defined[39m
+2025-05-14 20:35:26 [31merror[39m: [31mError in getHistoricalRates: base is not defined[39m
+2025-05-14 20:35:33 [31merror[39m: [31mError in getHistoricalRates: base is not defined[39m
+2025-05-14 20:37:51 [31merror[39m: [31mError in getHistoricalRates: base is not defined[39m
+2025-05-14 23:04:07 [31merror[39m: [31mError in getForecast: Invalid time value[39m
+2025-05-14 23:04:07 [31merror[39m: [31mError getting forecast: Invalid time value[39m
+2025-05-14 23:04:33 [31merror[39m: [31mError in getForecast: Invalid time value[39m
+2025-05-14 23:04:33 [31merror[39m: [31mError getting forecast: Invalid time value[39m
+2025-05-14 23:04:40 [31merror[39m: [31mError in getForecast: Invalid time value[39m
+2025-05-14 23:04:40 [31merror[39m: [31mError getting forecast: Invalid time value[39m
+2025-05-14 23:05:22 [31merror[39m: [31mError in getForecast: Invalid time value[39m
+2025-05-14 23:05:22 [31merror[39m: [31mError getting forecast: Invalid time value[39m
+2025-05-14 23:06:15 [31merror[39m: [31mError in getForecast: Invalid time value[39m
+2025-05-14 23:06:15 [31merror[39m: [31mError getting forecast: Invalid time value[39m
+2025-05-14 23:08:09 [31merror[39m: [31mError in getForecast: Invalid time value[39m
+2025-05-14 23:08:09 [31merror[39m: [31mError getting forecast: Invalid time value[39m
+2025-05-14 23:08:25 [31merror[39m: [31mError in getForecast: Invalid time value[39m
+2025-05-14 23:08:25 [31merror[39m: [31mError getting forecast: Invalid time value[39m
+2025-05-14 23:09:15 [31merror[39m: [31mError in getForecast: Invalid time value[39m
+2025-05-14 23:09:15 [31merror[39m: [31mError getting forecast: Invalid time value[39m
+2025-05-14 23:09:35 [31merror[39m: [31mError in getForecast: Invalid time value[39m
+2025-05-14 23:09:35 [31merror[39m: [31mError getting forecast: Invalid time value[39m
+2025-05-14 23:10:04 [31merror[39m: [31mError in getForecast: Cannot read properties of undefined (reading 'push')[39m
+2025-05-14 23:10:04 [31merror[39m: [31mError getting forecast: Cannot read properties of undefined (reading 'push')[39m
+2025-05-14 23:10:07 [31merror[39m: [31mError in getForecast: Invalid time value[39m
+2025-05-14 23:10:07 [31merror[39m: [31mError getting forecast: Invalid time value[39m
+2025-05-14 23:10:09 [31merror[39m: [31mError in getForecast: Cannot read properties of undefined (reading 'push')[39m
+2025-05-14 23:10:09 [31merror[39m: [31mError getting forecast: Cannot read properties of undefined (reading 'push')[39m
+2025-05-14 23:10:17 [31merror[39m: [31mError in getForecast: Invalid time value[39m
+2025-05-14 23:10:17 [31merror[39m: [31mError getting forecast: Invalid time value[39m
+2025-05-14 23:11:15 [31merror[39m: [31mError in getForecast: Invalid time value[39m
+2025-05-14 23:11:15 [31merror[39m: [31mError getting forecast: Invalid time value[39m
+2025-05-14 23:11:36 [31merror[39m: [31mError in getForecast: Cannot read properties of undefined (reading 'push')[39m
+2025-05-14 23:11:36 [31merror[39m: [31mError getting forecast: Cannot read properties of undefined (reading 'push')[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 13.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 14.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 15.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 16.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 17.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 18.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 19.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 20.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 21.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 22.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 23.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 24.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 25.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 26.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 27.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 28.02.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 13.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 14.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 15.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 16.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 17.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 18.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 19.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 20.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 21.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 22.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 23.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 24.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 25.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 26.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 27.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 28.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 29.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 30.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 31.03.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 13.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 14.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 15.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 16.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 17.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 18.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 19.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 20.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 21.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 22.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 23.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 24.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 25.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 26.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 27.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 28.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 29.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 30.04.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 13.05.2025[39m
+2025-05-14 23:13:51 [31merror[39m: [31mInvalid date string: 14.05.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 15.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 16.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 17.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 18.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 19.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 20.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 21.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 22.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 23.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 24.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 25.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 26.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 27.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 28.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 29.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 30.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 31.03.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 13.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 14.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 15.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 16.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 17.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 18.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 19.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 20.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 21.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 22.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 23.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 24.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 25.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 26.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 27.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 28.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 29.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 30.04.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 13.05.2025[39m
+2025-05-14 23:14:14 [31merror[39m: [31mInvalid date string: 14.05.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 15.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 15.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 16.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 16.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 17.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 17.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 18.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 18.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 19.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 19.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 20.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 20.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 21.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 21.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 22.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 22.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 23.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 23.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 24.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 24.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 25.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 25.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 26.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 26.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 27.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 27.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 28.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 28.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 29.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 29.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 30.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 30.11.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 13.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 13.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 14.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 14.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 15.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 15.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 16.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 16.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 17.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 17.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 18.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 18.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 19.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 19.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 20.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 20.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 21.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 21.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 22.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 22.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 23.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 23.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 24.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 24.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 25.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 25.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 26.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 26.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 27.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 27.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 28.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 28.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 29.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 29.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 30.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 30.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 31.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 31.12.2024[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 13.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 13.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 14.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 14.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 15.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 15.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 16.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 16.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 17.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 17.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 18.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 18.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 19.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 19.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 20.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 20.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 21.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 21.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 22.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 22.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 23.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 23.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 24.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 24.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 25.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 25.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 26.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 26.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 27.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 27.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 28.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 28.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 29.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 29.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 30.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 30.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 31.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 31.01.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 13.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 13.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 14.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 14.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 15.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 15.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 16.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 16.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 17.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 17.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 18.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 18.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 19.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 19.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 20.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 20.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 21.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 21.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 22.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 22.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 23.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 23.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 24.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 24.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 25.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 25.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 26.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 26.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 27.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 27.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 28.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 28.02.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 13.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 13.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 14.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 14.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 15.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 15.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 16.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 16.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 17.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 17.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 18.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 18.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 19.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 19.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 20.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 20.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 21.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 21.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 22.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 22.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 23.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 23.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 24.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 24.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 25.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 25.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 26.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 26.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 27.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 27.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 28.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 28.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 29.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 29.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 30.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 30.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 31.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 31.03.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 13.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 13.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 14.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 14.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 15.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 15.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 16.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 16.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 17.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 17.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 18.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 18.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 19.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 19.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 20.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 20.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 21.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 21.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 22.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 22.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 23.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 23.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 24.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 24.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 25.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 25.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 26.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 26.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 27.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 27.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 28.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 28.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 29.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 29.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 30.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 30.04.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 13.05.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 13.05.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 14.05.2025[39m
+2025-05-14 23:14:21 [31merror[39m: [31mInvalid date string: 14.05.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 13.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 14.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 15.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 16.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 17.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 18.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 19.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 20.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 21.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 22.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 23.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 24.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 25.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 26.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 27.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 28.02.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 13.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 14.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 15.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 16.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 17.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 18.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 19.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 20.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 21.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 22.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 23.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 24.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 25.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 26.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 27.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 28.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 29.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 30.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 31.03.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 13.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 14.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 15.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 16.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 17.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 18.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 19.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 20.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 21.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 22.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 23.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 24.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 25.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 26.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 27.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 28.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 29.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 30.04.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 13.05.2025[39m
+2025-05-14 23:15:00 [31merror[39m: [31mInvalid date string: 14.05.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 15.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 15.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 16.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 16.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 17.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 17.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 18.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 18.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 19.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 19.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 20.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 20.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 21.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 21.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 22.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 22.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 23.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 23.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 24.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 24.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 25.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 25.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 26.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 26.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 27.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 27.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 28.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 28.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 29.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 29.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 30.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 30.11.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 13.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 13.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 14.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 14.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 15.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 15.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 16.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 16.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 17.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 17.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 18.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 18.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 19.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 19.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 20.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 20.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 21.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 21.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 22.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 22.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 23.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 23.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 24.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 24.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 25.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 25.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 26.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 26.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 27.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 27.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 28.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 28.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 29.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 29.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 30.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 30.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 31.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 31.12.2024[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 13.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 13.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 14.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 14.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 15.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 15.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 16.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 16.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 17.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 17.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 18.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 18.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 19.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 19.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 20.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 20.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 21.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 21.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 22.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 22.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 23.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 23.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 24.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 24.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 25.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 25.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 26.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 26.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 27.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 27.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 28.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 28.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 29.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 29.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 30.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 30.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 31.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 31.01.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 13.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 13.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 14.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 14.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 15.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 15.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 16.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 16.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 17.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 17.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 18.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 18.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 19.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 19.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 20.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 20.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 21.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 21.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 22.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 22.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 23.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 23.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 24.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 24.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 25.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 25.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 26.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 26.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 27.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 27.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 28.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 28.02.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 13.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 13.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 14.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 14.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 15.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 15.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 16.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 16.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 17.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 17.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 18.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 18.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 19.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 19.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 20.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 20.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 21.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 21.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 22.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 22.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 23.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 23.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 24.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 24.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 25.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 25.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 26.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 26.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 27.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 27.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 28.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 28.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 29.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 29.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 30.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 30.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 31.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 31.03.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 13.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 13.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 14.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 14.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 15.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 15.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 16.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 16.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 17.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 17.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 18.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 18.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 19.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 19.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 20.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 20.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 21.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 21.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 22.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 22.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 23.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 23.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 24.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 24.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 25.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 25.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 26.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 26.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 27.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 27.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 28.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 28.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 29.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 29.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 30.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 30.04.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 13.05.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 13.05.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 14.05.2025[39m
+2025-05-14 23:15:15 [31merror[39m: [31mInvalid date string: 14.05.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 15.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 16.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 17.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 18.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 19.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 20.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 21.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 22.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 23.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 24.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 25.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 26.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 27.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 28.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 29.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 30.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 31.03.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 13.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 14.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 15.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 16.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 17.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 18.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 19.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 20.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 21.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 22.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 23.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 24.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 25.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 26.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 27.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 28.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 29.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 30.04.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 13.05.2025[39m
+2025-05-14 23:17:20 [31merror[39m: [31mInvalid date string: 14.05.2025[39m
+2025-05-14 23:37:20 [31merror[39m: [31mError in getHistoricalRates: source is not defined[39m
+2025-05-14 23:37:31 [31merror[39m: [31mError in getHistoricalRates: source is not defined[39m
+2025-05-14 23:37:42 [31merror[39m: [31mError in getHistoricalRates: source is not defined[39m
+2025-05-14 23:37:45 [31merror[39m: [31mError in getHistoricalRates: source is not defined[39m
+2025-05-14 23:37:46 [31merror[39m: [31mError in getHistoricalRates: source is not defined[39m
+2025-05-14 23:38:34 [31merror[39m: [31mError in getHistoricalRates: source is not defined[39m
+2025-05-19 20:56:37 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-19 20:56:37 [31merror[39m: [31mError getting historical rates: Request failed with status code 404[39m
+2025-05-19 20:56:37 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:56:37 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:57:06 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-19 20:57:06 [31merror[39m: [31mError getting historical rates: Request failed with status code 404[39m
+2025-05-19 20:57:06 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:57:06 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:57:09 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-19 20:57:09 [31merror[39m: [31mError getting historical rates: Request failed with status code 404[39m
+2025-05-19 20:57:09 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:57:09 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:57:12 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-19 20:57:12 [31merror[39m: [31mError getting historical rates: Request failed with status code 404[39m
+2025-05-19 20:57:12 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:57:12 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:57:29 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-19 20:57:29 [31merror[39m: [31mError getting historical rates: Request failed with status code 404[39m
+2025-05-19 20:57:29 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:57:29 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:57:31 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-19 20:57:31 [31merror[39m: [31mError getting historical rates: Request failed with status code 404[39m
+2025-05-19 20:57:31 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:57:31 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:57:37 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-19 20:57:37 [31merror[39m: [31mError getting historical rates: Request failed with status code 404[39m
+2025-05-19 20:57:37 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:57:37 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:58:18 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-19 20:58:18 [31merror[39m: [31mError getting historical rates: Request failed with status code 404[39m
+2025-05-19 20:58:18 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:58:18 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:58:28 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-19 20:58:28 [31merror[39m: [31mError getting historical rates: Request failed with status code 404[39m
+2025-05-19 20:58:28 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:58:28 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:58:41 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-19 20:58:41 [31merror[39m: [31mError getting historical rates: Request failed with status code 404[39m
+2025-05-19 20:58:41 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:58:41 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:59:07 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-19 20:59:07 [31merror[39m: [31mError getting historical rates: Request failed with status code 404[39m
+2025-05-19 20:59:07 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:59:07 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:59:50 [31merror[39m: [31mMinFin API error: Status 404[39m
+2025-05-19 20:59:50 [31merror[39m: [31mError getting historical rates: Request failed with status code 404[39m
+2025-05-19 20:59:50 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-19 20:59:50 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
