@@ -11,7 +11,7 @@ interface Props {
 
 export const ForecastDetails: React.FC<Props> = ({ forecast }) => (
   <View style={styles.container}>
-    <KeyFactorsSection reasons={forecast.reasons} />
+    <KeyFactorsSection reasons={forecast?.factors} />
 
     {forecast.targets && <TargetsSection targets={forecast.targets} />}
 

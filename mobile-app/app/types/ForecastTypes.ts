@@ -19,7 +19,7 @@ export interface CurrencyForecast {
   direction: 'bullish' | 'bearish' | 'neutral';
   confidence: number;
   currentPrice: number;
-  reasons: string[];
+  factors: string[];
   targets?: {
     bullish?: { target: number; stop: number };
     bearish?: { target: number; stop: number };
