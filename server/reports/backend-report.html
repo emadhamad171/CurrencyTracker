@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Анализ Node.js сервера</title>
+    <style>
+        body { font-family: Arial; margin: 20px; background: #f5f5f5; }
+        .container { max-width: 1200px; margin: 0 auto; background: white; padding: 30px; border-radius: 10px; }
+        .metric-card { background: #f8f9fa; padding: 20px; margin: 10px; border-radius: 8px; display: inline-block; min-width: 200px; }
+        .metric-title { font-weight: bold; color: #333; margin-bottom: 10px; }
+        .metric-value { font-size: 24px; color: #007bff; font-weight: bold; }
+        .good { color: #28a745; }
+        .warning { color: #ffc107; }
+        .error { color: #dc3545; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        .recommendation { background: #e3f2fd; padding: 15px; margin: 10px 0; border-left: 4px solid #2196f3; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔍 Анализ Node.js API Сервера</h1>
+        <p>Дата анализа: 29.05.2025, 21:14:19</p>
+        
+        <h2>📊 Архитектурные метрики</h2>
+        <div class="metric-card">
+            <div class="metric-title">Файлов кода</div>
+            <div class="metric-value">19</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-title">Строк кода</div>
+            <div class="metric-value">4278</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-title">API эндпоинтов</div>
+            <div class="metric-value">42</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-title">Middleware функций</div>
+            <div class="metric-value">2</div>
+        </div>
+
+        
+        <h2>🔍 Качество кода</h2>
+        <div class="metric-card">
+            <div class="metric-title">ESLint ошибки</div>
+            <div class="metric-value error">30</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-title">ESLint предупреждения</div>
+            <div class="metric-value good">0</div>
+        </div>
+        <div class="metric-card">
+            <div class="metric-title">Файлов с проблемами</div>
+            <div class="metric-value">4/18</div>
+        </div>
+        
+
+        
+        <h2>📋 Топ нарушенных правил</h2>
+        <table>
+            <tr><th>Правило</th><th>Количество</th><th>Описание</th></tr>
+            <tr><td>max-statements</td><td>7</td><td>Нарушение стандартов кода</td></tr><tr><td>max-lines-per-function</td><td>6</td><td>Слишком длинные функции</td></tr><tr><td>complexity</td><td>6</td><td>Высокая сложность функций</td></tr><tr><td>consistent-return</td><td>5</td><td>Непоследовательный return</td></tr><tr><td>no-unused-vars</td><td>4</td><td>Нарушение стандартов кода</td></tr><tr><td>max-params</td><td>2</td><td>Нарушение стандартов кода</td></tr>
+        </table>
+        
+
+        <h2>💡 Рекомендации</h2>
+        <div class="recommendation">Приоритет: исправление критических ошибок ESLint</div>
+
+        <h2>🔗 Детальные отчеты</h2>
+        <ul>
+            <li><a href="./backend-eslint.html">ESLint детальный отчет</a></li>
+            <li><a href="./security-audit.json">Аудит безопасности</a></li>
+            <li><a href="./dependencies.txt">Анализ зависимостей</a></li>
+        </ul>
+    </div>
+</body>
+</html>

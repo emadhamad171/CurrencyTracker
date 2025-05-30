@@ -1062,3 +1062,17 @@
 2025-05-19 20:59:50 [31merror[39m: [31mError getting historical rates: Request failed with status code 404[39m
 2025-05-19 20:59:50 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
 2025-05-19 20:59:50 [31merror[39m: [31mError in getHistoricalRates: Request failed with status code 404[39m
+2025-05-23 14:40:27 [31merror[39m: [31mError getting forecast: currency is not defined[39m
+2025-05-23 14:41:37 [31merror[39m: [31mError getting forecast: currency is not defined[39m
+2025-05-23 14:41:47 [31merror[39m: [31mError getting forecast: currency is not defined[39m
+2025-05-23 14:41:49 [31merror[39m: [31mError getting forecast: currency is not defined[39m
+2025-05-23 14:42:08 [31merror[39m: [31mError getting forecast: currency is not defined[39m
+2025-05-23 14:42:11 [31merror[39m: [31mError getting forecast: currency is not defined[39m
+2025-05-23 14:42:11 [31merror[39m: [31mError getting forecast: currency is not defined[39m
+2025-05-26 18:29:41 [31merror[39m: [31mError getting historical rates: cacheKey is not defined[39m
+2025-05-26 18:29:41 [31merror[39m: [31mError in getHistoricalRates: cacheKey is not defined[39m
+2025-05-26 18:29:41 [31merror[39m: [31mError in getHistoricalRates: cacheKey is not defined[39m
+2025-05-28 13:58:34 [31merror[39m: [31mMinFin API request failed with no response[39m
+2025-05-28 13:58:34 [31merror[39m: [31mError fetching black market rates: socket hang up[39m
+2025-05-28 13:58:34 [31merror[39m: [31mError getting combined rates: socket hang up[39m
+2025-05-28 13:58:34 [31merror[39m: [31mError getting current rates: socket hang up[39m

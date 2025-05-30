@@ -2,24 +2,23 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 
 interface AppState {
-    isOffline: boolean;
-    lastConnectivityCheck: string | null;
+  isOffline: boolean;
+  lastConnectivityCheck: string | null;
 }
 
 const initialState: AppState = {
-    isOffline: false,
-    lastConnectivityCheck: null
+  isOffline: false,
+  lastConnectivityCheck: null,
 };
 
 const appSlice = createSlice({
-    name: 'app',
-    initialState,
-    reducers: {
-        setNetworkStatus(state, action: PayloadAction<boolean>) {
-            console.log(action.payload, 'PAYLOAd');
-            state.isOffline = action.payload;
-        }
-    }
+  name: 'app',
+  initialState,
+  reducers: {
+    setNetworkStatus(state, action: PayloadAction<boolean>) {
+      state.isOffline = action.payload;
+    },
+  },
 });
 
 export const { setNetworkStatus } = appSlice.actions;

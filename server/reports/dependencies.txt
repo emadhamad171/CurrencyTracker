@@ -1,0 +1,5 @@
+
+> currency-tracker-server@1.0.0 dependency-check
+> depcheck
+
+sh: depcheck: command not found

@@ -1,0 +1,180 @@
+{
+  "timestamp": "2025-05-29T18:14:19.608Z",
+  "projectType": "Node.js Express API Server",
+  "structure": {
+    "eslint.config.mjs": {
+      "lines": 109,
+      "size": 2935,
+      "endpoints": 0,
+      "middleware": 0,
+      "asyncFunctions": 0
+    },
+    "logs": {},
+    "prettierrc.js": {
+      "lines": 11,
+      "size": 184,
+      "endpoints": 0,
+      "middleware": 0,
+      "asyncFunctions": 0
+    },
+    "reports": {},
+    "scripts": {
+      "analyze-backend.js": {
+        "lines": 296,
+        "size": 10697,
+        "endpoints": 0,
+        "middleware": 0,
+        "asyncFunctions": 0
+      }
+    },
+    "src": {
+      "app.js": {
+        "lines": 66,
+        "size": 1535,
+        "endpoints": 1,
+        "middleware": 1,
+        "asyncFunctions": 0
+      },
+      "config": {
+        "env.js": {
+          "lines": 42,
+          "size": 1369,
+          "endpoints": 0,
+          "middleware": 0,
+          "asyncFunctions": 0
+        }
+      },
+      "controllers": {
+        "currencyController.js": {
+          "lines": 78,
+          "size": 2673,
+          "endpoints": 0,
+          "middleware": 0,
+          "asyncFunctions": 0
+        },
+        "forecastController.js": {
+          "lines": 1751,
+          "size": 52111,
+          "endpoints": 14,
+          "middleware": 0,
+          "asyncFunctions": 10
+        },
+        "priceAlertsController.js": {
+          "lines": 622,
+          "size": 18284,
+          "endpoints": 8,
+          "middleware": 0,
+          "asyncFunctions": 7
+        }
+      },
+      "middlewares": {
+        "cache.js": {
+          "lines": 52,
+          "size": 1771,
+          "endpoints": 1,
+          "middleware": 1,
+          "asyncFunctions": 0
+        },
+        "errorHandler.js": {
+          "lines": 35,
+          "size": 1144,
+          "endpoints": 0,
+          "middleware": 0,
+          "asyncFunctions": 0
+        },
+        "rateLimiter.js": {
+          "lines": 27,
+          "size": 877,
+          "endpoints": 0,
+          "middleware": 0,
+          "asyncFunctions": 0
+        }
+      },
+      "routes": {
+        "index.js": {
+          "lines": 28,
+          "size": 1108,
+          "endpoints": 10,
+          "middleware": 0,
+          "asyncFunctions": 0
+        }
+      },
+      "server.js": {
+        "lines": 94,
+        "size": 2714,
+        "endpoints": 0,
+        "middleware": 0,
+        "asyncFunctions": 0
+      },
+      "services": {
+        "alertsService.js": {
+          "lines": 179,
+          "size": 5684,
+          "endpoints": 2,
+          "middleware": 0,
+          "asyncFunctions": 4
+        },
+        "cronService.js": {
+          "lines": 172,
+          "size": 4758,
+          "endpoints": 2,
+          "middleware": 0,
+          "asyncFunctions": 2
+        },
+        "currencyService.js": {
+          "lines": 411,
+          "size": 11880,
+          "endpoints": 3,
+          "middleware": 0,
+          "asyncFunctions": 0
+        }
+      },
+      "utils": {
+        "cache.js": {
+          "lines": 142,
+          "size": 3513,
+          "endpoints": 1,
+          "middleware": 0,
+          "asyncFunctions": 0
+        },
+        "dateUtils.js": {
+          "lines": 102,
+          "size": 3383,
+          "endpoints": 0,
+          "middleware": 0,
+          "asyncFunctions": 0
+        },
+        "logger.js": {
+          "lines": 61,
+          "size": 1510,
+          "endpoints": 0,
+          "middleware": 0,
+          "asyncFunctions": 0
+        }
+      }
+    }
+  },
+  "metrics": {
+    "files": 19,
+    "totalLines": 4278,
+    "endpoints": 42,
+    "middleware": 2,
+    "eslint": {
+      "totalFiles": 18,
+      "totalErrors": 30,
+      "totalWarnings": 0,
+      "filesWithIssues": 4
+    }
+  },
+  "recommendations": [
+    "Приоритет: исправление критических ошибок ESLint"
+  ],
+  "ruleBreakdown": {
+    "max-lines-per-function": 6,
+    "no-unused-vars": 4,
+    "max-statements": 7,
+    "complexity": 6,
+    "max-params": 2,
+    "consistent-return": 5
+  }
+}

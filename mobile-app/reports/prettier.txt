@@ -1,0 +1,10 @@
+
+> mobile-app@1.0.0 format:check
+> prettier --check "**/*.{js,jsx,ts,tsx,json}"
+
+Checking formatting...
+[warn] app/(tabs)/index.tsx
+[warn] hooks/useNotification.ts
+[warn] reports/eslint-report.json
+[warn] reports/metrics.json
+[warn] Code style issues found in 4 files. Run Prettier with --write to fix.

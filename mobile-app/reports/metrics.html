@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Метрики качества кода</title>
+    <style>
+        body { font-family: Arial; margin: 20px; }
+        .metric { background: #f5f5f5; padding: 15px; margin: 10px 0; border-radius: 5px; }
+        .good { border-left: 5px solid #28a745; }
+        .warning { border-left: 5px solid #ffc107; }
+        .error { border-left: 5px solid #dc3545; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+    </style>
+</head>
+<body>
+    <h1>📊 Отчет качества кода</h1>
+    <p>Дата: 29.05.2025, 20:45:26</p>
+    
+    <div class="metric error">
+        <h3>Ошибки ESLint: 16</h3>
+        <p>Критические проблемы в коде</p>
+    </div>
+    
+    <div class="metric warning">
+        <h3>Предупреждения ESLint: 26</h3>
+        <p>Потенциальные проблемы</p>
+    </div>
+    
+    <div class="metric good">
+        <h3>Проанализировано файлов: 81</h3>
+        <p>Файлов с проблемами: 23</p>
+    </div>
+
+    <h2>📁 Проблемные файлы</h2>
+    <table>
+        <tr><th>Файл</th><th>Ошибки</th><th>Предупреждения</th></tr>
+        <tr><td>/app/(tabs)/converter.tsx</td><td>2</td><td>0</td></tr><tr><td>/app/(tabs)/history.tsx</td><td>2</td><td>0</td></tr><tr><td>/app/(tabs)/index.tsx</td><td>3</td><td>0</td></tr><tr><td>/components/ChartSection.tsx</td><td>0</td><td>1</td></tr><tr><td>/components/CreateAlertModal.tsx</td><td>0</td><td>2</td></tr><tr><td>/components/EconomicIndicatorsCard.tsx</td><td>0</td><td>3</td></tr><tr><td>/components/ForecastDetails.tsx</td><td>0</td><td>3</td></tr><tr><td>/components/SettingItem.tsx</td><td>0</td><td>1</td></tr><tr><td>/components/UserAvatar.tsx</td><td>0</td><td>1</td></tr><tr><td>/components/__tests__/StyledText-test.js</td><td>2</td><td>0</td></tr><tr><td>/components/charts/LineChart.tsx</td><td>2</td><td>0</td></tr><tr><td>/components/currency/CurrencyCard.tsx</td><td>1</td><td>0</td></tr><tr><td>/contexts/AuthContext.tsx</td><td>0</td><td>2</td></tr><tr><td>/contexts/CurrencyContext.tsx</td><td>2</td><td>0</td></tr><tr><td>/hooks/useAlerts.ts</td><td>0</td><td>2</td></tr><tr><td>/hooks/useNotification.ts</td><td>1</td><td>0</td></tr><tr><td>/scripts/before-after-comparison.js</td><td>1</td><td>0</td></tr><tr><td>/scripts/collect-metrics.js</td><td>0</td><td>1</td></tr><tr><td>/services/api.ts</td><td>0</td><td>2</td></tr><tr><td>/store/slices/converterSlice.ts</td><td>0</td><td>2</td></tr><tr><td>/store/slices/currencySlice.ts</td><td>0</td><td>3</td></tr><tr><td>/store/slices/forecastSlice.ts</td><td>0</td><td>2</td></tr><tr><td>/store/slices/historySlice.ts</td><td>0</td><td>1</td></tr>
+    </table>
+
+    <h2>📋 Топ нарушенных правил</h2>
+    <table>
+        <tr><th>Правило</th><th>Количество</th></tr>
+        <tr><td>@typescript-eslint/no-explicit-any</td><td>24</td></tr><tr><td>no-undef</td><td>5</td></tr><tr><td>max-lines-per-function</td><td>4</td></tr><tr><td>complexity</td><td>4</td></tr><tr><td>prettier/prettier</td><td>2</td></tr><tr><td>@typescript-eslint/no-unused-vars</td><td>2</td></tr><tr><td>no-duplicate-imports</td><td>1</td></tr>
+    </table>
+</body>
+</html>

@@ -18,9 +18,7 @@
       "bundleIdentifier": "com.emadhamad.currencytracker",
       "googleServicesFile": "./GoogleService-Info.plist",
       "infoPlist": {
-        "UIBackgroundModes": [
-          "remote-notification"
-        ]
+        "UIBackgroundModes": ["remote-notification"]
       }
     },
     "android": {
@@ -30,10 +28,7 @@
       },
       "package": "com.emadhamad.currencytracker",
       "googleServicesFile": "./google-services.json",
-      "permissions": [
-        "RECEIVE_BOOT_COMPLETED",
-        "VIBRATE"
-      ]
+      "permissions": ["RECEIVE_BOOT_COMPLETED", "VIBRATE"]
     },
     "web": {
       "bundler": "metro",
@@ -47,11 +42,8 @@
       [
         "expo-notifications",
         {
-//          "icon": "./assets/images/notification-icon.png",
           "color": "#ffffff",
-          "sounds": [
-            "./assets/sounds/notification-sound.wav"
-          ]
+          "sounds": ["./assets/sounds/notification-sound.wav"]
         }
       ],
       [
@@ -67,6 +59,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "87fae018-9038-4254-9133-e2dc78bd23a2"
+      }
+    },
+    "owner": "emadhamad171"
   }
 }

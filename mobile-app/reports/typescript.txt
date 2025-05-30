@@ -1,0 +1,60 @@
+
+> mobile-app@1.0.0 type-check
+> tsc --noEmit
+
+app/(tabs)/alerts.tsx(28,35): error TS2322: Type 'Promise<{ shouldShowAlert: true; shouldPlaySound: true; shouldSetBadge: false; }>' is not assignable to type 'Promise<NotificationBehavior>'.
+  Type '{ shouldShowAlert: true; shouldPlaySound: true; shouldSetBadge: false; }' is missing the following properties from type 'NotificationBehavior': shouldShowBanner, shouldShowList
+app/(tabs)/converter.tsx(126,27): error TS7006: Parameter 'code' implicitly has an 'any' type.
+app/(tabs)/converter.tsx(130,36): error TS7006: Parameter 'currencyCode' implicitly has an 'any' type.
+app/(tabs)/converter.tsx(135,34): error TS7006: Parameter 'currencyCode' implicitly has an 'any' type.
+app/(tabs)/converter.tsx(178,11): error TS2322: Type '{ isOffline: boolean; lastUpdated: string | null; freshness: { lastUpdated: string; hoursAgo: number; isStale: boolean; } | null; } | null' is not assignable to type 'DataSourceInfo | null'.
+  Type '{ isOffline: boolean; lastUpdated: string | null; freshness: { lastUpdated: string; hoursAgo: number; isStale: boolean; } | null; }' is not assignable to type 'DataSourceInfo'.
+    Types of property 'lastUpdated' are incompatible.
+      Type 'string | null' is not assignable to type 'string'.
+        Type 'null' is not assignable to type 'string'.
+app/(tabs)/forecast.tsx(86,13): error TS2353: Object literal may only specify known properties, and 'source' does not exist in type 'DataSourceInfo'.
+app/(tabs)/forecast.tsx(94,30): error TS2322: Type '{ dxy: { value: number; change: number; changePercent: number; trend: "up" | "down" | "sideways"; }; rates: { fed: number; ecb: number; nbu: number; difference: number; }; gdp: { usa: { value: number; trend: string; }; eu: { ...; }; ukraine: { ...; }; }; }' is not assignable to type 'ForecastIndicators'.
+  The types of 'gdp.usa.trend' are incompatible between these types.
+    Type 'string' is not assignable to type '"up" | "down"'.
+app/(tabs)/forecast.tsx(100,11): error TS2741: Property 'currentPrice' is missing in type '{ direction: "bullish" | "bearish" | "sideways"; confidence: number; reasons: string[]; }' but required in type 'CurrencyForecast'.
+app/(tabs)/forecast.tsx(109,11): error TS2741: Property 'currentPrice' is missing in type '{ direction: "bullish" | "bearish" | "sideways"; confidence: number; reasons: string[]; }' but required in type 'CurrencyForecast'.
+app/(tabs)/forecast.tsx(114,33): error TS2322: Type '{ dxy: { value: number; change: number; changePercent: number; trend: "up" | "down" | "sideways"; }; rates: { fed: number; ecb: number; nbu: number; difference: number; }; gdp: { usa: { value: number; trend: string; }; eu: { ...; }; ukraine: { ...; }; }; }' is not assignable to type 'ForecastIndicators'.
+  The types of 'gdp.usa.trend' are incompatible between these types.
+    Type 'string' is not assignable to type '"up" | "down"'.
+app/(tabs)/forecast.tsx(116,29): error TS2322: Type '{ date: string; event: string; currency: string; impact: string; description: string; }[]' is not assignable to type 'UpcomingEvent[]'.
+  Type '{ date: string; event: string; currency: string; impact: string; description: string; }' is not assignable to type 'UpcomingEvent'.
+    Types of property 'impact' are incompatible.
+      Type 'string' is not assignable to type '"high" | "medium" | "low"'.
+app/(tabs)/history.tsx(133,87): error TS2322: Type 'object' is not assignable to type 'ReactNode'.
+app/(tabs)/history.tsx(160,11): error TS2322: Type '{ isOffline: boolean; lastUpdated: object | null; } | null' is not assignable to type 'DataSourceInfo | null'.
+  Type '{ isOffline: boolean; lastUpdated: object | null; }' is not assignable to type 'DataSourceInfo'.
+    Types of property 'lastUpdated' are incompatible.
+      Type 'object | null' is not assignable to type 'string'.
+        Type 'null' is not assignable to type 'string'.
+app/(tabs)/history.tsx(184,37): error TS2769: No overload matches this call.
+  Overload 1 of 4, '(value: string | number | Date): Date', gave the following error.
+    Argument of type 'object' is not assignable to parameter of type 'string | number | Date'.
+  Overload 2 of 4, '(value: string | number): Date', gave the following error.
+    Argument of type 'object' is not assignable to parameter of type 'string | number'.
+app/(tabs)/index.tsx(96,11): error TS7053: Element implicitly has an 'any' type because expression of type 'string' can't be used to index type 'RatesResponse'.
+  No index signature with a parameter of type 'string' was found on type 'RatesResponse'.
+app/(tabs)/index.tsx(97,9): error TS7053: Element implicitly has an 'any' type because expression of type 'string' can't be used to index type 'RatesResponse'.
+  No index signature with a parameter of type 'string' was found on type 'RatesResponse'.
+app/(tabs)/index.tsx(97,35): error TS7006: Parameter 'rate' implicitly has an 'any' type.
+app/(tabs)/index.tsx(184,11): error TS2322: Type '{ isOffline: boolean; lastUpdated: string | null; } | null' is not assignable to type 'DataSourceInfo | null'.
+  Type '{ isOffline: boolean; lastUpdated: string | null; }' is not assignable to type 'DataSourceInfo'.
+    Types of property 'lastUpdated' are incompatible.
+      Type 'string | null' is not assignable to type 'string'.
+        Type 'null' is not assignable to type 'string'.
+components/charts/LineChart.tsx(196,13): error TS2353: Object literal may only specify known properties, and 'propsForGrid' does not exist in type 'AbstractChartConfig'.
+components/currency/CurrencyList.tsx(42,7): error TS2322: Type '`/currency/${string}`' is not assignable to type '"/history" | "/converter" | "/alerts" | "/(tabs)" | RelativePathString | ExternalPathString | "/modal" | "/_sitemap" | "/(tabs)/alerts" | ... 11 more ... | "/+not-found"'.
+contexts/CurrencyContext.tsx(56,23): error TS2345: Argument of type 'RatesResponse' is not assignable to parameter of type 'SetStateAction<{ nbu: CurrencyRate[]; privatbank: CurrencyRate[]; interbank: CurrencyRate[]; }>'.
+  Type 'RatesResponse' is missing the following properties from type '{ nbu: CurrencyRate[]; privatbank: CurrencyRate[]; interbank: CurrencyRate[]; }': privatbank, interbank
+hooks/useAlerts.ts(70,41): error TS2345: Argument of type '{ userId: any; currencyPair: string; alertType: "above" | "below"; targetPrice: number; pushToken: string; }' is not assignable to parameter of type '{ userId: string; currencyPair: "USDUAH" | "EURUAH"; alertType: "above" | "below"; targetPrice: number; pushToken: string; }'.
+  Types of property 'currencyPair' are incompatible.
+    Type 'string' is not assignable to type '"USDUAH" | "EURUAH"'.
+hooks/useNotification.ts(23,22): error TS2353: Object literal may only specify known properties, and 'foreground' does not exist in type '{ isDestructive?: boolean | undefined; isAuthenticationRequired?: boolean | undefined; opensAppToForeground?: boolean | undefined; }'.
+hooks/useNotification.ts(31,47): error TS18046: 'tokenError' is of type 'unknown'.
+services/api.ts(336,9): error TS7053: Element implicitly has an 'any' type because expression of type 'string' can't be used to index type '{}'.
+  No index signature with a parameter of type 'string' was found on type '{}'.
+store/slices/forecastSlice.ts(65,40): error TS2339: Property 'getForecast' does not exist on type '{ getAvailableCurrencies: () => Promise<Currency[]>; getCurrentRates: (baseCurrency?: string, currencies?: string[]) => Promise<RatesResponse>; ... 9 more ...; refreshFundamentalData: () => Promise<...>; }'.

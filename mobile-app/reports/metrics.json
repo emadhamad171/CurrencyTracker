@@ -1,0 +1,506 @@
+{
+  "timestamp": "2025-05-29T17:45:26.650Z",
+  "summary": {
+    "totalFiles": 81,
+    "totalErrors": 16,
+    "totalWarnings": 26,
+    "filesWithIssues": 23
+  },
+  "fileDetails": [
+    {
+      "file": "/.prettierrc.js",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/@types/env.d.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/app/(tabs)/_layout.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/app/(tabs)/alerts.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/app/(tabs)/converter.tsx",
+      "errors": 2,
+      "warnings": 0,
+      "lines": 366
+    },
+    {
+      "file": "/app/(tabs)/forecast.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/app/(tabs)/history.tsx",
+      "errors": 2,
+      "warnings": 0,
+      "lines": 246
+    },
+    {
+      "file": "/app/(tabs)/index.tsx",
+      "errors": 3,
+      "warnings": 0,
+      "lines": 300
+    },
+    {
+      "file": "/app/(tabs)/settings.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/app/+html.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/app/_layout.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/app/auth/login.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/app/auth/register.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/app/modal.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/app/types/AlertTypes.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/app/types/ForecastTypes.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/AlertCard.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/AlertsList.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/AlertsStatsSection.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/AppSettingsSection.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/AuthRequiredState.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/ChartSection.tsx",
+      "errors": 0,
+      "warnings": 1,
+      "lines": 61
+    },
+    {
+      "file": "/components/CreateAlertButton.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/CreateAlertModal.tsx",
+      "errors": 0,
+      "warnings": 2,
+      "lines": 365
+    },
+    {
+      "file": "/components/CurrencyButton.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/CurrencyForecastCard.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/CurrencyModal.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/CurrencySelectionModal.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/DataSourceIndicator.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/EconomicIndicatorsCard.tsx",
+      "errors": 0,
+      "warnings": 3,
+      "lines": 219
+    },
+    {
+      "file": "/components/EditScreenInfo.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/EmptyAlertsState.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/ExternalLink.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/FilterPanel.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/FooterSection.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/ForecastDetails.tsx",
+      "errors": 0,
+      "warnings": 3,
+      "lines": 194
+    },
+    {
+      "file": "/components/HistoryFilterPanel.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/HistoryModals.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/MarketSentimentCard.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/NotificationSettingsSection.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/OfflineIndicator.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/RatesSection.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/SettingItem.tsx",
+      "errors": 0,
+      "warnings": 1,
+      "lines": 53
+    },
+    {
+      "file": "/components/StyledText.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/Themed.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/UpcomingEventsCard.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/UpdateInfoCard.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/UserAvatar.tsx",
+      "errors": 0,
+      "warnings": 1,
+      "lines": 71
+    },
+    {
+      "file": "/components/UserProfileSection.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/__tests__/StyledText-test.js",
+      "errors": 2,
+      "warnings": 0,
+      "lines": 11
+    },
+    {
+      "file": "/components/charts/LineChart.tsx",
+      "errors": 2,
+      "warnings": 0,
+      "lines": 314
+    },
+    {
+      "file": "/components/currency/CurrencyCard.tsx",
+      "errors": 1,
+      "warnings": 0,
+      "lines": 158
+    },
+    {
+      "file": "/components/currency/CurrencyList.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/currency/CurrencyRateCard.tsx",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/useClientOnlyValue.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/useClientOnlyValue.web.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/useColorScheme.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/components/useColorScheme.web.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/constants/Colors.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/constants/config.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/contexts/AuthContext.tsx",
+      "errors": 0,
+      "warnings": 2,
+      "lines": 53
+    },
+    {
+      "file": "/contexts/CurrencyContext.tsx",
+      "errors": 2,
+      "warnings": 0,
+      "lines": 117
+    },
+    {
+      "file": "/expo-env.d.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/firebase.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/hooks/useAlerts.ts",
+      "errors": 0,
+      "warnings": 2,
+      "lines": 101
+    },
+    {
+      "file": "/hooks/useColorScheme.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/hooks/useForecastData.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/hooks/useNotification.ts",
+      "errors": 1,
+      "warnings": 0,
+      "lines": 58
+    },
+    {
+      "file": "/scripts/before-after-comparison.js",
+      "errors": 1,
+      "warnings": 0,
+      "lines": 100
+    },
+    {
+      "file": "/scripts/collect-metrics.js",
+      "errors": 0,
+      "warnings": 1,
+      "lines": 146
+    },
+    {
+      "file": "/services/api.ts",
+      "errors": 0,
+      "warnings": 2,
+      "lines": 379
+    },
+    {
+      "file": "/store/hook.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/store/index.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/store/slices/appSlice.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/store/slices/converterSlice.ts",
+      "errors": 0,
+      "warnings": 2,
+      "lines": 197
+    },
+    {
+      "file": "/store/slices/currencySlice.ts",
+      "errors": 0,
+      "warnings": 3,
+      "lines": 91
+    },
+    {
+      "file": "/store/slices/forecastSlice.ts",
+      "errors": 0,
+      "warnings": 2,
+      "lines": 137
+    },
+    {
+      "file": "/store/slices/historySlice.ts",
+      "errors": 0,
+      "warnings": 1,
+      "lines": 87
+    },
+    {
+      "file": "/types/types.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/utils/converter.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    },
+    {
+      "file": "/utils/forecastUtils.ts",
+      "errors": 0,
+      "warnings": 0,
+      "lines": 0
+    }
+  ],
+  "ruleBreakdown": {
+    "max-lines-per-function": 4,
+    "complexity": 4,
+    "prettier/prettier": 2,
+    "@typescript-eslint/no-explicit-any": 24,
+    "no-undef": 5,
+    "no-duplicate-imports": 1,
+    "@typescript-eslint/no-unused-vars": 2
+  }
+}

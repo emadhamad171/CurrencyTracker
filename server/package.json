@@ -7,7 +7,18 @@
     "start": "node src/server.js",
     "dev": "nodemon src/server.js",
     "seed": "node src/utils/seedDatabase.js",
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "lint:json": "eslint . --format json --output-file reports/backend-eslint.json",
+    "lint:html": "eslint . --format html --output-file reports/backend-eslint.html",
+    "format": "prettier --write \"**/*.{js,mjs,ts,json}\"",
+    "format:check": "prettier --check \"**/*.{js,mjs,ts,json}\"",
+    "type-check": "tsc --noEmit",
+    "security-audit": "npm audit --audit-level=moderate",
+    "dependency-check": "depcheck",
+    "quality-check": "npm run lint && npm run format:check",
+    "backend-report": "mkdir -p reports && npm run lint:json && npm run lint:html && npm run security-audit > reports/security-audit.txt 2>&1 || true"
   },
   "keywords": [
     "currency",
@@ -31,11 +42,20 @@
     "mongoose": "^8.0.3",
     "morgan": "^1.10.0",
     "node-cache": "^5.1.2",
+    "node-cron": "^4.0.7",
     "winston": "^3.11.0"
   },
   "devDependencies": {
     "jest": "^29.7.0",
     "nodemon": "^3.0.2",
-    "supertest": "^6.3.3"
+    "supertest": "^6.3.3",
+    "eslint": "^8.57.0",
+    "@eslint/js": "^9.0.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-security": "^1.7.1",
+    "eslint-plugin-import": "^2.28.0",
+    "prettier": "^3.0.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0"
   }
 }
